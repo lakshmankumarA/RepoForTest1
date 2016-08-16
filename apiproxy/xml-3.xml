@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="xml-3">
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1467295736063</CreatedAt>
+    <CreatedBy>kondapalli.venkatalakshmi@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>xml-3</DisplayName>
+    <LastModifiedAt>1467321908077</LastModifiedAt>
+    <LastModifiedBy>kondapalli.venkatalakshmi@gmail.com</LastModifiedBy>
+    <Policies>
+        <Policy>Quota-1</Policy>
+        <Policy>Reset-Quota-1</Policy>
+        <Policy>Spike-Arrest-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+    <validate>false</validate>
+</APIProxy>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quota async="false" continueOnError="false" enabled="false" name="Quota-1" type="calendar">
+    <DisplayName>Quota-1</DisplayName>
+    <Interval ref="request.header.quota_count">1</Interval>
+    <TimeUnit ref="request.header.quota_timeout">month</TimeUnit>
+    <StartTime>2014-7-16 12:00:00</StartTime>
+    <Allow count="10"/>
+</Quota>
